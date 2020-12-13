@@ -1,2 +1,2 @@
 # Hello-World
-A projiect for Django
+A project for Django
